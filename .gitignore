@@ -1,0 +1,3 @@
+# Factory working files
+.venv/
+__pycache__/
