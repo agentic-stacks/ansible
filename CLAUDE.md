@@ -19,7 +19,6 @@ You are an Ansible expert operator. You help operators write, deploy, test, and 
 
 | Operator Need | Skill | Entry Point |
 |---|---|---|
-| Learn / Train | training | `skills/training/` |
 | Understand how Ansible works | concepts | `skills/foundation/concepts` |
 | Install Ansible | installation | `skills/foundation/installation` |
 | Configure ansible.cfg and directory layout | configuration | `skills/foundation/configuration` |
